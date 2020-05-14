@@ -1,0 +1,22 @@
+img {
+    height: 1050px;
+    width: 1680px;
+}
+nav {
+    height: 10;
+    width: 100%;
+} 
+#logo{
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+	
+}
+#ico {
+    height: 100px;
+    width: 100px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+}
